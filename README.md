@@ -1,6 +1,6 @@
 # nado-web
 
-FIXME
+一个用来显示公司项目中后台数据的Web工具
 
 ## Prerequisites
 
